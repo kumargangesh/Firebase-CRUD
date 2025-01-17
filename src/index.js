@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import ChildA from './Childs/ChildA';
 import FrontPage from './FirebaseCRUD/UserInterface/FrontPage';
 // import FrontPage from './FirebaseTesting/UserInterface/FrontPage';
 // import FrontPage from './UseContextHookInMultipleFields/FrontPage';
